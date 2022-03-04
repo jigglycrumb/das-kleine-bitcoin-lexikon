@@ -3,9 +3,9 @@ id: wallet
 title: Wallet
 ---
 
-Ein Wallet (englisch: Geldbeutel) ist ein Ort, an dem Bitcoins gelagert werden.
+Ein Wallet (englisch: Geldbeutel) ist ein Ort, an dem [Bitcoins](../b/bitcoin) gelagert werden.
 
-Du kannst es dir etwa wie ein Bankkonto im traditionellen Banksystem vorstellen. Nur wer Zugriff auf das Wallet hat (durch Besitz des privaten Schlüssels), kann den im Wallet enthaltenen Bitcoin-Betrag ausgeben.
+Du kannst es dir etwa wie ein Bankkonto im traditionellen Banksystem vorstellen. Nur wer Zugriff auf das Wallet hat (durch Besitz des privaten Schlüssels), kann den im Wallet enthaltenen [Bitcoin](../b/bitcoin)-Betrag ausgeben.
 
 Es gibt verschiedene Varianten von Wallets:
 
