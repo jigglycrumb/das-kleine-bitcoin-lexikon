@@ -1,16 +1,16 @@
 import React, { useEffect, useState } from "react";
 
-export default function MoscowTime() {
-  const [moscowTime, setMoscowTime] = useState(0);
+export default function BlockTime() {
+  const [blockTime, setBlockTime] = useState(0);
   const [renderCycle, setRenderCycle] = useState(0);
 
   let timeout;
 
   useEffect(() => {
-    fetch("https://blockchain.info/tobtc?currency=USD&value=1")
+    fetch("https://mempool.space/api/blocks/tip/height")
       .then(res => res.json())
       .then(res => {
-        setMoscowTime(res * 100000000);
+        setBlockTime(res);
         clearTimeout(timeout);
         timeout = setTimeout(() => {
           setRenderCycle(renderCycle + 1);
@@ -18,5 +18,5 @@ export default function MoscowTime() {
       });
   }, [renderCycle]);
 
-  return <h4>Aktuelle Moskau Zeit: {moscowTime || "lade…"}</h4>;
+  return <h4>Aktuelle Blockzeit: {blockTime || "lade…"}</h4>;
 }

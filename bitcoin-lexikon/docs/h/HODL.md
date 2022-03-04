@@ -1,0 +1,10 @@
+---
+id: hodl
+title: HODL
+---
+
+HODL ist ein Meme, das im Bitcoin-Talk Forum entstanden ist. Dort wollte ein etwas angetrunkener Bitcoiner 2013 mitteilen, dass er seine Bitcoins trotz Crash niemals verkaufen, sondern weiter halten (englisch: hold) wird. Durch einen Tippfehler wurde aus "hold" HODL und ein Meme war geboren.
+
+Das Verb zu HODL ist "hodlen", und Menschen die hodlen sind "Hodler"
+
+Den original HODL-Post findest du hier: [I AM HODLING](https://bitcointalk.org/index.php?topic=375643.0)
