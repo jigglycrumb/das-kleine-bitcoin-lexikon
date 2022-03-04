@@ -25,6 +25,7 @@ const config = {
         docs: {
           routeBasePath: "/", // Serve the docs at the site's root
           sidebarPath: require.resolve("./sidebars.js"),
+          sidebarCollapsible: false,
           // Please change this to your repo.
           editUrl:
             "https://github.com/hpcodecraft/das-kleine-bitcoin-lexikon/tree/main/packages/create-docusaurus/templates/shared/",
@@ -57,7 +58,7 @@ const config = {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Zum Lexikon",
+            label: "Lexikon",
           },
           // { to: "/blog", label: "Blog", position: "left" },
           {
