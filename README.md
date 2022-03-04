@@ -1,6 +1,4 @@
-# das-kleine-bitcoin-lexikon
-
-Das kleine Bitcoin Lexikon
+# Das kleine Bitcoin Lexikon
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
