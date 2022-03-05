@@ -8,8 +8,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Das kleine Bitcoin Lexikon",
   tagline: "Bitcoin von A bis Z",
-  url: "https://hpcodecraft.github.io/das-kleine-bitcoin-lexikon",
-  baseUrl: "/",
+  url: "https://hpcodecraft.github.io",
+  baseUrl: "/das-kleine-bitcoin-lexikon/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -26,16 +26,7 @@ const config = {
           routeBasePath: "/", // Serve the docs at the site's root
           sidebarPath: require.resolve("./sidebars.js"),
           sidebarCollapsible: false,
-          // Please change this to your repo.
-          editUrl:
-            "https://github.com/hpcodecraft/das-kleine-bitcoin-lexikon/tree/main/packages/create-docusaurus/templates/shared/",
         },
-        // blog: {
-        //   showReadingTime: true,
-        //   // Please change this to your repo.
-        //   editUrl:
-        //     "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
-        // },
         blog: false,
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -60,7 +51,6 @@ const config = {
             position: "left",
             label: "Lexikon",
           },
-          // { to: "/blog", label: "Blog", position: "left" },
           {
             href: "https://github.com/hpcodecraft/das-kleine-bitcoin-lexikon",
             label: "GitHub",
