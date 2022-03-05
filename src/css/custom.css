@@ -8,10 +8,10 @@
 :root {
   --ifm-color-primary: #ff9900;
   --ifm-color-primary-dark: darken(#ff9900, 10%);
-  --ifm-color-primary-darker: darken(#ff9900, 20%);
+  --ifm-color-primary-darker: darken(#ff9900, 15%);
   --ifm-color-primary-darkest: darken(#ff9900, 30%);
   --ifm-color-primary-light: lighten(#ff9900, 10%);
-  --ifm-color-primary-lighter: lighten(#ff9900, 20%);
+  --ifm-color-primary-lighter: lighten(#ff9900, 15%);
   --ifm-color-primary-lightest: lighten(#ff9900, 30%);
   --ifm-code-font-size: 95%;
 }
@@ -39,5 +39,9 @@
 }
 
 .menu__list-item-collapsible {
+  text-transform: uppercase;
+}
+
+.breadcrumbs > .breadcrumbs__item {
   text-transform: uppercase;
 }
