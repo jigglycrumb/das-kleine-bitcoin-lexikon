@@ -47,7 +47,7 @@ const config = {
         items: [
           {
             type: "doc",
-            docId: "intro",
+            docId: "willkommen",
             position: "left",
             label: "Lexikon",
           },
@@ -58,47 +58,47 @@ const config = {
           },
         ],
       },
-      footer: {
-        style: "dark",
-        links: [
-          // {
-          //   title: "Docs",
-          //   items: [
-          //     {
-          //       label: "Tutorial",
-          //       to: "/docs/intro",
-          //     },
-          //   ],
-          // },
-          // {
-          //   title: "Community",
-          //   items: [
-          //     {
-          //       label: "Stack Overflow",
-          //       href: "https://stackoverflow.com/questions/tagged/docusaurus",
-          //     },
-          //     {
-          //       label: "Discord",
-          //       href: "https://discordapp.com/invite/docusaurus",
-          //     },
-          //     {
-          //       label: "Twitter",
-          //       href: "https://twitter.com/docusaurus",
-          //     },
-          //   ],
-          // },
-          // {
-          //   title: "Mehr",
-          //   items: [
-          //     {
-          //       label: "GitHub",
-          //       href: "https://github.com/hpcodecraft/das-kleine-bitcoin-lexikon",
-          //     },
-          //   ],
-          // },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} hpcodecraft. Built with Docusaurus.`,
-      },
+      // footer: {
+      //   style: "dark",
+      //   links: [
+      //     // {
+      //     //   title: "Docs",
+      //     //   items: [
+      //     //     {
+      //     //       label: "Tutorial",
+      //     //       to: "/docs/intro",
+      //     //     },
+      //     //   ],
+      //     // },
+      //     // {
+      //     //   title: "Community",
+      //     //   items: [
+      //     //     {
+      //     //       label: "Stack Overflow",
+      //     //       href: "https://stackoverflow.com/questions/tagged/docusaurus",
+      //     //     },
+      //     //     {
+      //     //       label: "Discord",
+      //     //       href: "https://discordapp.com/invite/docusaurus",
+      //     //     },
+      //     //     {
+      //     //       label: "Twitter",
+      //     //       href: "https://twitter.com/docusaurus",
+      //     //     },
+      //     //   ],
+      //     // },
+      //     // {
+      //     //   title: "Mehr",
+      //     //   items: [
+      //     //     {
+      //     //       label: "GitHub",
+      //     //       href: "https://github.com/hpcodecraft/das-kleine-bitcoin-lexikon",
+      //     //     },
+      //     //   ],
+      //     // },
+      //   ],
+      //   copyright: `Copyright © ${new Date().getFullYear()} hpcodecraft. Built with Docusaurus.`,
+      // },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
