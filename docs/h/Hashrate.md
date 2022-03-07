@@ -3,7 +3,7 @@ id: hashrate
 title: Hashrate
 ---
 
-Die Hashrate ist die Gesamtzahl an Hashes, die pro Sekunde von den [Bitcoin](../b/bitcoin)-Minern erzeugt wird.
+Die Hashrate ist die Gesamtzahl an Hashes, die pro Sekunde von den [Bitcoin](../b/bitcoin)-[Minern](../m/mining) erzeugt wird.
 
 Sie gibt maßgeblich Auskunft darüber, wie sicher das [Bitcoin](../b/bitcoin)-Netzwerk aktuell ist - eine höhere Hashrate bedeutet höhere Sicherheit.
 
