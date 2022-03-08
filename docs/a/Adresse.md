@@ -3,9 +3,9 @@ id: adresse
 title: Adresse
 ---
 
-Eine Adresse ist eine Zeichenkette, die du benutzen kannst um Bitcoins zu empfangen. Du kannst sie in etwa mit der IBAN im Bankensystem vergleichen.
+Eine Adresse ist eine Zeichenfolge aus Buchstaben und Zahlen, die du benutzen kannst um Bitcoins zu empfangen. Du kannst sie in etwa mit der IBAN im Bankensystem vergleichen.
 
-Im Gegensatz zum Bankensystem kann ein [Wallet](../w/wallet) jedoch viele verschiedene Adressen enthalten und du kannst jederzeit neue Adressen generieren. Die Adressen werden aus dem öffentlichen Schlüssel abgeleitet.
+Im Gegensatz zum Bankensystem kann ein [Wallet](../w/wallet) jedoch viele verschiedene Adressen enthalten und du kannst jederzeit neue Adressen generieren.
 
 Eine Adresse sieht beispielsweise so aus:
 

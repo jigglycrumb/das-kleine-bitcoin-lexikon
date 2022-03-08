@@ -15,7 +15,7 @@ Es gibt verschiedene Varianten von Wallets:
 
 - Hot/Cold Wallet
 
-  Ein Hot Wallet ist ständig mit dem Internet verbunden, während ein Cold Wallet nur beim Versenden einer Transaktion kommuniziert. Das Cold Wallet bietet höhere Sicherheit.
+  Ein Hot Wallet ist ständig mit dem Internet verbunden, während ein Cold Wallet höchstens beim Versenden einer Transaktion kommuniziert. Das Cold Wallet bietet höhere Sicherheit.
 
 - Custodial/Non-custodial Wallet
 
