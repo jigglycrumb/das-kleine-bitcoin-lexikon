@@ -5,7 +5,7 @@ title: Wallet
 
 Ein Wallet (englisch: Geldbeutel) ist ein Ort, an dem [Bitcoins](../b/bitcoin) gelagert werden.
 
-Du kannst es dir etwa wie ein Bankkonto im traditionellen Banksystem vorstellen. Nur wer Zugriff auf das Wallet hat (durch Besitz des privaten Schlüssels), kann den im Wallet enthaltenen [Bitcoin](../b/bitcoin)-Betrag ausgeben.
+Du kannst es dir etwa wie ein Bankkonto im traditionellen Banksystem vorstellen. Nur wer Zugriff auf das Wallet hat (durch Besitz des privaten [Schlüssels](../s/schluessel)), kann den im Wallet enthaltenen [Bitcoin](../b/bitcoin)-Betrag ausgeben.
 
 Es gibt verschiedene Varianten von Wallets:
 
@@ -15,9 +15,9 @@ Es gibt verschiedene Varianten von Wallets:
 
 - Hot/Cold Wallet
 
-  Ein Hot Wallet ist ständig mit dem Internet verbunden, während ein Cold Wallet höchstens beim Versenden einer Transaktion kommuniziert. Das Cold Wallet bietet höhere Sicherheit.
+  Ein Hot Wallet ist ständig mit dem Internet verbunden, während ein Cold Wallet höchstens beim Versenden einer [Transaktion](../t/transaktion) kommuniziert. Das Cold Wallet bietet höhere Sicherheit.
 
 - Custodial/Non-custodial Wallet
 
-  Ein Custodial Wallet ist ein Wallet, bei dem der Anbieter die privaten Schlüssel besitzt. Dies hat den Vorteil, dass man unter Umständen über den Anbieter wieder Zugriff auf sein Wallet erhält, wenn man z.B. seinen Zugang verloren hat.
-  Bei einem Non-custodial Wallet besitzt der Benutzer selbst die Schlüssel und somit auch die volle Verantwortung.
+  Ein Custodial Wallet ist ein Wallet, bei dem der Anbieter die privaten [Schlüssel](../s/schluessel) besitzt. Dies hat den Vorteil, dass man unter Umständen über den Anbieter wieder Zugriff auf sein Wallet erhält, wenn man z.B. seinen Zugang verloren hat.
+  Bei einem Non-custodial Wallet besitzt der Benutzer selbst die [Schlüssel](../s/schluessel) und somit auch die volle Verantwortung.
