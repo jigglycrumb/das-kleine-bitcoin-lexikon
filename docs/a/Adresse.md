@@ -31,4 +31,4 @@ Es gibt verschiedene Adressformate:
 
   Taproot Adressen beginnen mit **bc1p**. Sie sind das neueste Format, werden aber erst von wenigen [Exchanges](../e/exchange) unterstützt.
 
-Übrigens: Falls du dieses Lexikon unterstützen möchtest, kannst du gerne ein paar [Satoshis](../s/satoshi) an die Beispieladresse senden. 😊
+Übrigens: Falls du dieses Lexikon unterstützen möchtest, kannst du ein paar [Satoshis](../s/satoshi) an die Beispieladresse senden. 😊

@@ -3,7 +3,7 @@ id: coinjoin
 title: CoinJoin
 ---
 
-CoinJoin ist ein Service, bei dem mehrere Teilnehmer den gleichen [Bitcoin](../b/bitcoin) Betrag einzahlen.  
+Ein CoinJoin ist ein Service, bei dem mehrere Teilnehmer den gleichen [Bitcoin](../b/bitcoin) Betrag einzahlen.  
 Sobald genug Teilnehmer eingezahlt haben, wird eine [Transaktion](../t/transaktion) erzeugt, die jedem Teilnehmer den gleichen Betrag (abzüglich einer Servicegebühr) wieder auszahlt.
 
 Ziel des Ganzen ist, zu verschleiern woher einzelne [Bitcoins](../b/bitcoin) kommen und wohin sie gehen.
