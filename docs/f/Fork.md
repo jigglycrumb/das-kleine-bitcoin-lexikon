@@ -3,7 +3,7 @@ id: fork
 title: Fork
 ---
 
-Forks sind Updates des [Bitcoin]('../b/bitcoin) Netzwerks.
+Forks sind Updates des [Bitcoin](../b/bitcoin) Netzwerks.
 
 Es gibt zwei Arten von Forks:
 

@@ -41,7 +41,14 @@
 .menu__list-item-collapsible {
   text-transform: uppercase;
 }
-
-.breadcrumbs > .breadcrumbs__item {
+.breadcrumbs__item {
   text-transform: uppercase;
+}
+
+.pagination-nav__sublabel {
+  display: none;
+}
+
+.pagination-nav__link {
+  border: none;
 }
