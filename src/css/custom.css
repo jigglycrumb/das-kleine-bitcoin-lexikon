@@ -45,6 +45,14 @@
   text-transform: uppercase;
 }
 
+.breadcrumbs__link {
+  background: none !important;
+}
+
+.pagination-nav {
+  border-top: 1px solid;
+}
+
 .pagination-nav__sublabel {
   display: none;
 }
