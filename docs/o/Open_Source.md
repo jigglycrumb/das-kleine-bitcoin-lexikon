@@ -4,7 +4,7 @@ title: Open Source
 ---
 
 Open Source ist englisch für Offene Quelle.  
-Im Zusammenhang mit Software bedeutet Open Source, dass der Code, aus dem die Software besteht, öffentlich verfügbar und frei zugänglich ist.
+Im Zusammenhang mit Software bedeutet Open Source, dass der Code aus dem die Software besteht öffentlich verfügbar und frei zugänglich ist.
 
 Dies bedeutet
 

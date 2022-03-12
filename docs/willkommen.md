@@ -12,6 +12,6 @@ Hier findest du einfache und kurze Erklärungen zu gängigen Begriffen, die im [
 
 Dies soll als Nachschlagewerk dienen, um z.B. beim Lesen von Artikeln schnell ein grundlegendes Verständnis des gesuchten Begriffs zu erhalten.  
 Tiefergehende Erklärungen werden hier nicht gegeben – du wirst aber vielleicht einige weiterführende Links finden.  
-Was du hier auch nicht finden wirst: Werbung, Tracker, Cookies oder andere gruselige Dinge.
+Was du hier auch nicht finden wirst: Tracker, Cookies oder andere gruselige Dinge.
 
 Viel Spaß beim Stöbern!

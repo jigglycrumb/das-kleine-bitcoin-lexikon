@@ -3,7 +3,8 @@ id: fomo
 title: FOMO
 ---
 
-Englisch: Fear Of Missing Out - Die Angst, etwas zu verpassen.
+FOMO ist die Abkürzung für "Fear Of Missing Out".  
+Das ist englisch für "Die Angst, etwas zu verpassen".
 
 Hierbei geht es um die Angst, weitere schnelle Kursanstiege zu verpassen.
 

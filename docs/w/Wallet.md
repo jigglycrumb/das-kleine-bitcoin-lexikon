@@ -5,13 +5,14 @@ title: Wallet
 
 Ein Wallet (englisch: Geldbeutel) ist ein Ort, an dem [Bitcoins](../b/bitcoin) gelagert werden.
 
-Du kannst es dir etwa wie ein Bankkonto im traditionellen Banksystem vorstellen. Nur wer Zugriff auf das Wallet hat (durch Besitz des privaten [Schlüssels](../s/schluessel)), kann den im Wallet enthaltenen [Bitcoin](../b/bitcoin)-Betrag ausgeben.
+Du kannst es dir etwa wie ein Bankkonto im traditionellen Banksystem vorstellen. Nur wer Zugriff auf das Wallet hat (durch Besitz des privaten [Schlüssels](../s/schluessel)), kann die im Wallet enthaltenen [Bitcoins](../b/bitcoin) ausgeben.
 
 Es gibt verschiedene Varianten von Wallets:
 
 - Software/Hardware Wallet
 
-  Ein Software Wallet ist ein Programm auf einem Smartphone oder Computer. Ein Hardware Wallet hingegen ist ein eigenes Gerät, das oft einem USB-Stick ähnelt.
+  Ein Software Wallet ist ein Programm auf einem Smartphone oder Computer.  
+  Ein Hardware Wallet ist ein eigenes Gerät, das oft einem USB-Stick ähnelt.
 
 - Hot/Cold Wallet
 

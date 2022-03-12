@@ -1,6 +1,6 @@
 ---
-id: lightning-netzwerk
-title: Lightning Netzwerk
+id: lightning
+title: Lightning
 ---
 
 Das Lightning Netzwerk ist eine Software, die auf [Bitcoin](../b/bitcoin) aufbaut.  

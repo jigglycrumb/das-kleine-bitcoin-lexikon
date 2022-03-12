@@ -5,7 +5,7 @@ title: Adresse
 
 Eine Adresse ist eine Zeichenfolge aus Buchstaben und Zahlen, die du benutzen kannst um Bitcoins zu empfangen. Du kannst sie in etwa mit der IBAN im Bankensystem vergleichen.
 
-Im Gegensatz zum Bankensystem kann ein [Wallet](../w/wallet) jedoch viele verschiedene Adressen enthalten und du kannst jederzeit neue Adressen generieren.
+Im Gegensatz zum Bankkonto kann ein [Wallet](../w/wallet) jedoch beliebig viele verschiedene Adressen enthalten und du kannst jederzeit neue Adressen generieren.
 
 Eine Adresse sieht beispielsweise so aus:
 
@@ -25,7 +25,7 @@ Es gibt verschiedene Adressformate:
 
 - Native SegWit
 
-  Native SegWit Adressen beginnen mit **bc1q**. Sie sind aktuell Standard.
+  Native SegWit Adressen beginnen mit **bc1q**. Sie sind der aktuelle Standard.
 
 - Taproot
 
