@@ -3,8 +3,10 @@ id: hash
 title: Hash
 ---
 
-Ein Hash ist eine Zeichenfolgen aus Buchstaben und Zahlen.  
-Hashes sind das Ergbnis von speziellen mathematischen Funktionen, sogenannten Einweg- oder Hashfunktionen. Das besondere an diesen Funktionen ist, dass das Ergebnis sich sehr sich einfach erzeugen lässt, wenn man da Eingaben kennt. Aus dem Ergbnis die Eingaben herzuleiten ist allerdings sehr schwierig bis unmöglich.
+Ein Hash ist eine Zeichenfolgen aus Buchstaben und Zahlen.
+
+Hashes sind das Ergbnis von speziellen mathematischen Funktionen, sogenannten Einweg- oder Hashfunktionen.  
+Das besondere an diesen Funktionen ist, dass das Ergebnis sich sehr sich einfach erzeugen lässt, wenn man die Eingaben kennt. Aus dem Ergbnis die Eingaben herzuleiten ist allerdings sehr schwierig bis unmöglich.
 
 Sieh dir z.B. diese einfache Gleichung an:
 
@@ -21,7 +23,7 @@ Wenn du a und b hast, ist die Überprüfung des Ergnisses kein Problem. Wenn du 
 
 Hash-Funktionen haben viele nützliche Anwendungsfälle und werden in der Informationstechnik häufig verwendet.
 
-Hast du dich schon einmal gefragt, warum du dein Passwort immer zurücksetzen musst, wenn du es vergessen hast, und dir dein Anbieter nicht einfach dein Passwort schickt?
+Hast du dich z.B. schon einmal gefragt, warum du dein Passwort immer zurücksetzen musst, wenn du es vergessen hast und dir dein Anbieter nicht einfach dein Passwort schickt?  
 Das liegt daran, dass der Anbieter nur einen Hash deines Passworts gespeichert hat, und dein eigentliches Passwort gar nicht kennt.  
 Wenn du dich einloggst, erzeugt der Anbieter einfach einen Hash deines eingetippten Passworts und vergleicht es mit dem Hash, den er gespeichert hat. So weiß er, dass das Passwort stimmt, ohne es kennen zu müssen. Und so kommt auch niemand an dein Passwort, wenn der Anbieter gehackt wird.
 

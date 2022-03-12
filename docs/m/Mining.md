@@ -3,7 +3,8 @@ id: mining
 title: Mining
 ---
 
-Mining ist englisch für Schürfen. Dies ist der Prozess, bei dem neue [Bitcoin](../b/bitcoin)-[Transaktionen](../t/transaktion) in [Blöcke](../b/block) zusammengefasst und an die [Blockchain](../b/blockchain) angehangen werden.
+Mining ist englisch für Schürfen.  
+Dies ist der Prozess, bei dem neue [Bitcoin](../b/bitcoin) [Transaktionen](../t/transaktion) in [Blöcke](../b/block) zusammengefasst und an die [Blockchain](../b/blockchain) angehangen werden.
 
 Teilnehmer die Mining betreiben werden Miner genannt.
 

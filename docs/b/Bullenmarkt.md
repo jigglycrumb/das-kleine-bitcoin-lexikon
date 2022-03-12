@@ -3,7 +3,7 @@ id: bullenmarkt
 title: Bullenmarkt
 ---
 
-Als Bullenmarkt wird eine Marktphase bezeichnet, in der die Preise eines Assets ansteigen. Die Marktstimmung ist dementsprechend optimistisch.
+Als Bullenmarkt wird eine Marktphase bezeichnet, in der die Preise eines Assets ansteigen. Die Marktstimmung ist entsprechend optimistisch.
 
 Anleger die Kursansteige erwarten werden als "bullish" bezeichnet.
 

@@ -4,6 +4,6 @@ title: Transaktion
 ---
 
 Eine Transaktion ist ein Eintrag in der [Blockchain](../b/blockchain), der die Übertragung von [Bitcoins](../b/bitcoin) beschreibt.  
-Im Gegensatz zu klassischen Banktransaktionen kann eine [Bitcoin](../b/bitcoin)-Transaktion sowohl mehrere Sender als auch mehrere Empfänger enthalten.
+Im Gegensatz zu klassischen Banktransaktionen kann eine [Bitcoin](../b/bitcoin) Transaktion sowohl mehrere Sender als auch mehrere Empfänger enthalten.
 
-Dies macht einen Vergleich der Transaktionsgeschwindigkeit traditionellen Zahlungssystemen und [Bitcoin](../b/bitcoin) etwas schwierig - er wird jedoch trotzdem häufig angestellt.
+Dies macht einen Vergleich der Transaktionsgeschwindigkeit von traditionellen Zahlungssystemen und [Bitcoin](../b/bitcoin) etwas schwierig – er wird jedoch trotzdem häufig angestellt.

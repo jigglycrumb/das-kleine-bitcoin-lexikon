@@ -3,7 +3,8 @@ id: fud
 title: FUD
 ---
 
-Englisch: Fear, Uncertainty & Doubt - Angst, Unsicherheit & Zweifel
+Für ist die Abkürzung für "Fear, Uncertainty & Doubt".  
+Das ist englisch für "Angst, Unsicherheit & Zweifel".
 
 FUD bezeichnet die Angst von Investoren, ihr Geld zu verlieren. Diese Angst verleitet die Investoren zu unüberlegten, emotionalen Handlungen.
 
