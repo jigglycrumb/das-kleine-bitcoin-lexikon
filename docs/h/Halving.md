@@ -12,6 +12,6 @@ Durch das Halving wird die Limitierung der Gesamtzahl an [Bitcoins](../b/bitcoin
 
 Übrigens:  
 Die Anzahl [Bitcoins](../b/bitcoin) die [Miner](../m/mining) pro gefundenem [Block](../b/block) erhalten gibt auch an, wie viel [Bitcoins](../b/bitcoin) (in Prozent) noch gefunden werden können:  
-Am Ende der 1. Periode mit 50 Coins pro [Block](../b/block) waren noch 50% der [21](../0-9/einundzwanzig) Millionen [Bitcoins](../b/bitcoin) zu finden.  
-Am Ende der 2. Periode mit 25 Coins pro [Block](../b/block) waren noch 25% der [21](../0-9/einundzwanzig) Millionen [Bitcoins](../b/bitcoin) zu finden.  
+Am Ende der 1. Periode mit 50 Coins pro [Block](../b/block) waren noch 50% der [21](../0-9/21) Millionen [Bitcoins](../b/bitcoin) zu finden.  
+Am Ende der 2. Periode mit 25 Coins pro [Block](../b/block) waren noch 25% der [21](../0-9/21) Millionen [Bitcoins](../b/bitcoin) zu finden.  
 Usw.
