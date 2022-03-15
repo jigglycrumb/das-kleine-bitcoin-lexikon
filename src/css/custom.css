@@ -63,21 +63,21 @@
 
 /* homepage styles */
 
-.heroBanner_src-pages-index-module {
+.hero--primary {
   height: calc(100vh - 190px);
 }
 
-.features_src-components-HomepageFeatures-styles-module {
+.start--features {
   height: 130px;
 }
 
 
 @media (max-width: 996px) {
-  .heroBanner_src-pages-index-module {
+  .hero--primary {
     height: auto;
   }
 
-  .features_src-components-HomepageFeatures-styles-module {
+  .start--features {
     height: auto;
   }
 }
