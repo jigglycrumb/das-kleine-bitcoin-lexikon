@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Das kleine Bitcoin Lexikon",
   tagline: "Bitcoin von A bis Z",
-  url: "https://bitcoin-lexikon.org",
+  url: "http://bitcoin-lexikon.org",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
