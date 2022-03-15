@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={siteConfig.title}
-      description="Die gängisten Bitcoin Begriffe, einfach erklärt."
+      description="Die gängisten Bitcoin Begriffe einfach erklärt"
     >
       <HomepageHeader />
       <main>
