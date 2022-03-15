@@ -3,16 +3,16 @@ id: schluessel
 title: Schlüssel
 ---
 
-Zu jedem [Bitcoin](../b/bitcoin) [Wallet](../w/wallet) gehören zwei Schlüssel bzw. ein Schlüsselpaar.  
+Zu jeder [Bitcoin](../b/bitcoin) [Adresse](../a/adresse) gehören zwei Schlüssel bzw. ein Schlüsselpaar.  
 
-Diese bestehen aus langen Zeichenfolgen aus Buchstaben und Zahlen. Da es schwierig ist sich diese zu merken oder fehlerfrei zu notieren, werden sie beim Erstellen des [Wallets](../w/wallet) aus der [Seed Phrase](seed-phrase) erzeugt.
+Diese bestehen aus langen Zeichenfolgen aus Buchstaben und Zahlen und werden beim Erstellen der [Adresse](../a/adresse) aus der [Seed Phrase](seed-phrase) erzeugt.
 
 Das Schlüsselpaar besteht aus:
 
 - Öffentlicher Schlüssel
 
-  Aus dem öffentlichen Schlüssel werden die [Adressen](../a/adresse) erzeugt.
+  Aus dem öffentlichen Schlüssel wird die [Adresse](../a/adresse) abgeleitet.
 
 - Privater Schlüssel
 
-  Der Besitz des privaten Schlüssel gibt die Berechtigung, die auf den [Adressen](../a/adresse) vorhandenen [Bitcoins](../b/bitcoin) auszugeben.
+  Der Besitz des privaten Schlüssel gibt die Berechtigung, die auf der [Adresse](../a/adresse) vorhandenen [Bitcoins](../b/bitcoin) auszugeben.

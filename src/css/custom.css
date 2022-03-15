@@ -60,3 +60,24 @@
 .pagination-nav__link {
   border: none;
 }
+
+/* homepage styles */
+
+.heroBanner_src-pages-index-module {
+  height: calc(100vh - 190px);
+}
+
+.features_src-components-HomepageFeatures-styles-module {
+  height: 130px;
+}
+
+
+@media (max-width: 996px) {
+  .heroBanner_src-pages-index-module {
+    height: auto;
+  }
+
+  .features_src-components-HomepageFeatures-styles-module {
+    height: auto;
+  }
+}

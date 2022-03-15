@@ -24,9 +24,8 @@ Wenn du a und b hast, ist die Überprüfung des Ergnisses kein Problem. Wenn du 
 Hash-Funktionen haben viele nützliche Anwendungsfälle und werden in der Informationstechnik häufig verwendet.
 
 Hast du dich z.B. schon einmal gefragt, warum du dein Passwort immer zurücksetzen musst, wenn du es vergessen hast und dir dein Anbieter nicht einfach dein Passwort schickt?  
-Das liegt daran, dass der Anbieter nur einen Hash deines Passworts gespeichert hat, und dein eigentliches Passwort gar nicht kennt.  
-Wenn du dich einloggst, erzeugt der Anbieter einfach einen Hash deines eingetippten Passworts und vergleicht es mit dem Hash, den er gespeichert hat. So weiß er, dass das Passwort stimmt, ohne es kennen zu müssen. Und so kommt auch niemand an dein Passwort, wenn der Anbieter gehackt wird.
-
-Auch wichtige Teile unserer modernen Verschlüsselungs-Technologie basieren auf Hash-Funktionen.
+Das liegt daran, dass der Anbieter nur einen Hash deines Passworts gespeichert hat und dein eigentliches Passwort gar nicht kennt.  
+Wenn du dich einloggst, erzeugt der Anbieter einfach einen Hash deines eingetippten Passworts und vergleicht diesen mit dem Hash den er gespeichert hat.  
+So weiß er, dass das Passwort stimmt ohne es kennen zu müssen. Und so kommt auch niemand an dein Passwort, falls der Anbieter gehackt wird.
 
 [Bitcoin](../b/bitcoin) verwendet Hashes unter anderem für das [Mining](../m/mining). Die für das [Bitcoin](../b/bitcoin) [Mining](../m/mining) verwendete Hash-Funktion ist [SHA-256](../s/sha-256).

@@ -11,4 +11,4 @@ So wie 1 Euro in 100 Cents aufteilbar ist, lässt sich ein [Bitcoin](../b/bitcoi
 
 Die Kurzform von Satoshi lautet Sat, der Plural Sats.
 
-Der Satoshi ist nach dem Erfinder von [Bitcoin](../b/bitcoin) benannt, [Satoshi Nakamoto](satoshi-nakamoto).
+Der Satoshi ist nach dem Erfinder von [Bitcoin](../b/bitcoin) benannt: [Satoshi Nakamoto](satoshi-nakamoto).

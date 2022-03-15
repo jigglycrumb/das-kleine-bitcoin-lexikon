@@ -3,7 +3,7 @@ id: adresse
 title: Adresse
 ---
 
-Eine Adresse ist eine Zeichenfolge aus Buchstaben und Zahlen, die du benutzen kannst um Bitcoins zu empfangen. Du kannst sie in etwa mit der IBAN im Bankensystem vergleichen.
+Eine Adresse ist eine Zeichenfolge aus Buchstaben und Zahlen, die du benutzen kannst um [Bitcoin](../b/bitcoin) zu empfangen. Du kannst sie in etwa mit der IBAN im Bankensystem vergleichen.
 
 Im Gegensatz zum Bankkonto kann ein [Wallet](../w/wallet) jedoch beliebig viele verschiedene Adressen enthalten und du kannst jederzeit neue Adressen generieren.
 
@@ -21,7 +21,7 @@ Es gibt verschiedene Adressformate:
 
 - Legacy & SegWit
 
-  Legacy Adressen beginnen mit der Zahl **1**, Segwit mit der Zahl **3**. Es wird davon abgeraten diese veralteteten Formate zu benutzen, da die Transaktionsgebühren höher sind.
+  Legacy Adressen beginnen mit der Zahl **1**, Segwit mit der Zahl **3**. Es wird davon abgeraten diese veralteteten Formate zu benutzen, da die [Transaktionsgebühren](../t/transaktionsgebuehren) höher sind.
 
 - Native SegWit
 
@@ -31,4 +31,5 @@ Es gibt verschiedene Adressformate:
 
   Taproot Adressen beginnen mit **bc1p**. Sie sind das neueste Format, werden aber erst von wenigen [Exchanges](../e/exchange) unterstützt.
 
-Übrigens: Falls du dieses Lexikon unterstützen möchtest, kannst du ein paar [Satoshis](../s/satoshi) an die Beispieladresse senden. 😊
+Übrigens:  
+Falls du dieses Lexikon unterstützen möchtest, kannst du ein paar [Satoshis](../s/satoshi) an die Beispieladresse senden. 😊
