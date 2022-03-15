@@ -7,12 +7,12 @@ const FeatureList = [
     title: 'Verständlich',
     description: (
       <>
-        Kein Studienabschluss notwendig
+        Kein Diplom notwendig
       </>
     ),
   },
   {
-    title: 'Präzise',
+    title: 'Kurz',
     description: (
       <>
         Die wichtigsten Fakten ohne Blabla
