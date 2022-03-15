@@ -7,4 +7,5 @@ HODL ist ein Meme, das im [Bitcoin-Talk Forum](https://bitcointalk.org) entstand
 
 Das Verb zu HODL ist "hodlen", und Menschen die hodlen sind "Hodler"
 
+Übrigens:  
 Den original HODL-Post findest du hier: [I AM HODLING](https://bitcointalk.org/index.php?topic=375643.0)

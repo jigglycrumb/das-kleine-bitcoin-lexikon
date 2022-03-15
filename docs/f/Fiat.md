@@ -3,7 +3,7 @@ id: fiat
 title: Fiat
 ---
 
-Fiat ist ein Sammelbegriff für alle staatlich herausgegebenen "Papier"-Währungen.
+Fiat ist ein Sammelbegriff für alle staatlich herausgegebenen "Papierwährungen".
 
 Der Begriff entstammt der lateinischen Sprache und bedeutet "Es werde" (wie in Fiat Lux - Es werde Licht).
 
