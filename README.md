@@ -26,16 +26,10 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-Using SSH:
+Deployment for this repo is using SSH:
 
 ```
-$ USE_SSH=true npm run deploy
+$ npm run deploy
 ```
 
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> npm run deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+This builds the website and pushes to the `gh-pages` branch.
