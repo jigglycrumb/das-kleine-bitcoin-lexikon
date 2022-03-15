@@ -21,7 +21,7 @@ Es gibt verschiedene Adressformate:
 
 - Legacy & SegWit
 
-  Legacy Adressen beginnen mit der Zahl **1**, Segwit mit der Zahl **3**. Es wird davon abgeraten diese veralteteten Formate zu benutzen, da die [Transaktionsgebühren](../t/transaktionsgebuehren) höher sind.
+  Legacy Adressen beginnen mit der Zahl **1**, Segwit mit der Zahl **3**. Es wird davon abgeraten diese veralteteten Formate zu benutzen, da die [Transaktionsgebühren](../t/transaktionsgebuehr) höher sind.
 
 - Native SegWit
 
