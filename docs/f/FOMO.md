@@ -13,6 +13,6 @@ Diese Gier verleitet Investoren zu unüberlegten, emotionalen Handlungen.
 Das Gegenteil von FOMO ist [FUD](fud)
 
 Übrigens:  
-[TooBitToFail](https://twitter.com/toobittofail) und [Hanspanzer](https://twitter.com/Hanspanzer3) haben zu diesem Thema sogar einen Song gemacht!
+[TooBitToFail](https://twitter.com/toobittofail) und [Hanspanzer](https://twitter.com/Hanspanzer3) haben zu diesem Thema einen Song gemacht!
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6AfHKbpgsi4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
