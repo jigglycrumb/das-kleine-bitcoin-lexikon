@@ -10,4 +10,4 @@ Als Reaktion entstanden zwei Twitter Accounts:
 - https://twitter.com/club__137
 - https://twitter.com/club137_21
 
-Beide hatten schnell mehr als 137 Follower.
+Beide hatten schnell mehr als 137 Follower…
