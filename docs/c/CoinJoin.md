@@ -8,7 +8,7 @@ Sobald genug Teilnehmer eingezahlt haben, wird eine [Transaktion](../t/transakti
 
 Dies hat zwei Vorteile:
 
-- [Transaktionsgebühren](../t/transaktionsgebuehr) werden verringert, da CoinJoin viele kleine [Transaktionen](../t/transaktion) zu einer größeren zusammen fasst.
+- [Transaktionsgebühren](../t/transaktionsgebuehr) werden verringert, da CoinJoin viele kleine [Transaktionen](../t/transaktion) zu einer größeren [Transaktion](../t/transaktion) zusammen fasst.
 - Es wird verschleiert, woher einzelne [Bitcoins](../b/bitcoin) kommen und wohin sie gehen.
 
 CoinJoin zu nutzen ist nicht illegal, es wird jedoch davon abgeraten. Der Grund dafür ist, dass es für staatliche Entitäten wie ein Versuch der Geldwäsche interpretiert werden kann.
