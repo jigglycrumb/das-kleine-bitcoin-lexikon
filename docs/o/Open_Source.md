@@ -14,4 +14,4 @@ Dies bedeutet
 [Bitcoin](../b/bitcoin) ist eine solche Open Source Software.
 
 Übrigens:  
-Den Code aus dem [Bitcoin](../b/bitcoin) besteht findest du hier: [Bitcoin Core](https://github.com/bitcoin/bitcoin)
+Den Code für [Bitcoin](../b/bitcoin) findest du hier: [Bitcoin Core](https://github.com/bitcoin/bitcoin)

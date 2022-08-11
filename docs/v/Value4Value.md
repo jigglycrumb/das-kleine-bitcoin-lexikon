@@ -12,7 +12,3 @@ Was heißt das? Stelle dir vor, du hast gerade einen Podcast gehört, der dir gu
 
 Übrigens:  
 Einige [Lightning](../l/lightning) [Wallets](../w/wallet) haben Value4Value Funktionen integriert. [Breez Wallet](https://breez.technology/) z.B. bietet einen integrierten Podcast Client mit Spendenfunktionen.
-
-Wenn du dieses Lexikon via [Lightning](../l/lightning) unterstützen möchtest, kannst du ein paar [Satoshis](../s/satoshi) an diesen QR-Code senden:
-
-![Bitcoin Lexikon LN Spenden QR](../../static/ln-donation-qr.png)
