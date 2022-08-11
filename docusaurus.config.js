@@ -41,7 +41,7 @@ const config = {
       navbar: {
         title: "Startseite",
         logo: {
-          alt: "My Site Logo",
+          alt: "Bitcoin Lexikon Logo",
           src: "img/bitcoin.svg",
         },
         items: [
@@ -52,9 +52,9 @@ const config = {
             label: "Lexikon",
           },
           {
-            href: "https://github.com/hpcodecraft/das-kleine-bitcoin-lexikon",
-            label: "GitHub",
             position: "right",
+            label: "Unterstützen",
+            href: "/support",
           },
         ],
       },
