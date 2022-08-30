@@ -13,6 +13,6 @@ Es gibt zwei Arten von Forks:
 
 - Hardfork
 
-  Ein Hardfork ist ein Update, welches nicht mit der bisherigen Software kompatibel ist. Wer die darin enthaltenen Änderungen nutzen möchte, ist gewungen das Update anzunehmen.  
+  Ein Hardfork ist ein Update, welches nicht mit der bisherigen Software kompatibel ist. Wer die darin enthaltenen Änderungen nutzen möchte, ist gezwungen das Update anzunehmen.  
   Ein Hardfork wird selten von allen Nutzern akzeptiert. Daraus resultiert, dass sich die [Blockchain](../b/blockchain) spaltet und eine neue Kryptowährung entsteht, da ein Zweig das Update enthält, der andere jedoch nicht.  
   So sind z.B. Bitcoin Cash (BCH) und Bitcoin Gold (BTG) durch Hardforks entstanden.
