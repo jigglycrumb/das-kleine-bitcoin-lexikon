@@ -3,7 +3,7 @@ id: orange-pill
 title: Orange Pill
 ---
 
-Orange Pill (deusch: Orangene Pille) ist ein Meme innerhalb der [Bitcoin](../b/bitcoin) Gemeinschaft, das sich auf den Film [Matrix](https://www.imdb.com/title/tt0133093/) bezieht.
+Orange Pill (deutsch: Orangene Pille) ist ein Meme innerhalb der [Bitcoin](../b/bitcoin) Gemeinschaft, das sich auf den Film [Matrix](https://www.imdb.com/title/tt0133093/) bezieht.
 
 Im Film hat der Protagonist Neo die Wahl zwischen einer roten und einer blauen Pille.  
 Nimmt er die rote, erwacht er aus der titelgebenden Matrix (eine von Computern simulierte Realität) und sieht die Welt, wie sie wirklich ist. Die blaue Pille würde ihn hingegen weiter in der Matrix leben lassen.  
