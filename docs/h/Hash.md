@@ -3,7 +3,7 @@ id: hash
 title: Hash
 ---
 
-Ein Hash ist eine Zeichenfolgen aus Buchstaben und Zahlen.
+Ein Hash ist eine Zeichenfolge aus Buchstaben und Zahlen.
 
 Hashes sind das Ergbnis von speziellen mathematischen Funktionen, sogenannten Einweg- oder Hashfunktionen.  
 Das besondere an diesen Funktionen ist, dass das Ergebnis sich sehr sich einfach erzeugen lässt, wenn man die Eingaben kennt. Aus dem Ergbnis die Eingaben herzuleiten ist allerdings sehr schwierig bis unmöglich.

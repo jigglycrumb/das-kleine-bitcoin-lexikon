@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/bitcoin.ico",
-  organizationName: "hpcodecraft", // Usually your GitHub org/user name.
+  organizationName: "jigglycrumb", // Usually your GitHub org/user name.
   projectName: "das-kleine-bitcoin-lexikon", // Usually your repo name.
   trailingSlash: false,
 
