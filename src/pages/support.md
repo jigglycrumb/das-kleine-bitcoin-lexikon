@@ -22,4 +22,4 @@ Das funktioniert via [Lightning](../l/lightning)…
 Vielen Dank!
 
 Übrigens:  
-Falls dir Artikel fehlen oder du Schreibfehler findest kannst du helfen, indem du eine Issue oder ein Pull Request bei [Github](https://github.com/hpcodecraft/das-kleine-bitcoin-lexikon) öffnest.
+Falls dir Artikel fehlen oder du Schreibfehler findest kannst du helfen, indem du eine Issue oder ein Pull Request bei [Github](https://github.com/jigglycrumb/das-kleine-bitcoin-lexikon) öffnest.
