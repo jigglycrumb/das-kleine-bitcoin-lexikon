@@ -6,7 +6,7 @@ title: Hash
 Ein Hash ist eine Zeichenfolge aus Buchstaben und Zahlen.
 
 Hashes sind das Ergbnis von speziellen mathematischen Funktionen, sogenannten Einweg- oder Hashfunktionen.  
-Das besondere an diesen Funktionen ist, dass das Ergebnis sich sehr sich einfach erzeugen lässt, wenn man die Eingaben kennt. Aus dem Ergbnis die Eingaben herzuleiten ist allerdings sehr schwierig bis unmöglich.
+Das besondere an diesen Funktionen ist, dass das Ergebnis sich sehr sich einfach erzeugen lässt, wenn man die Eingaben kennt. Aus dem Ergebnis die Eingaben herzuleiten ist allerdings sehr schwierig bis unmöglich.
 
 Sieh dir z.B. diese einfache Gleichung an:
 
@@ -19,7 +19,7 @@ Nun sieh dir diese Gleichung an:
 
 Es wird dich wahrscheinlich einige Zeit kosten darauf zu kommen, dass die gesuchte Lösung a=9860162, b=30292123 lautet.
 
-Wenn du a und b hast, ist die Überprüfung des Ergnisses kein Problem. Wenn du nur das Ergebnis hast, wird es schwierig.
+Wenn du a und b hast, ist die Überprüfung des Ergebnisses kein Problem. Wenn du nur das Ergebnis hast, wird es schwierig.
 
 Hash-Funktionen haben viele nützliche Anwendungsfälle und werden in der Informationstechnik häufig verwendet.
 

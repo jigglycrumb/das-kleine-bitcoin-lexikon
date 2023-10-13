@@ -12,6 +12,6 @@ Neo entscheidet sich für die rote Pille, erwacht und sieht die wahre Realität.
 Bitcoiner haben diese Szene aufgegriffen und die rote durch eine orangene Pille, quasi die "[Bitcoin](../b/bitcoin) Pille", ersetzt.
 
 ![Orange Pill](../../static/orange-pill.jpg)  
-Quelle: [bitcoinographic](https://twitter.com/bitcoinographic/status/1268440042772594691)
+Quelle: [bitcoinographic](https://x.com/bitcoinographic/status/1268440042772594691)
 
 "Orangepilling" als Verb bezeichnet den Versuch, Mitmenschen über [Bitcoin](../b/bitcoin) zu informieren.

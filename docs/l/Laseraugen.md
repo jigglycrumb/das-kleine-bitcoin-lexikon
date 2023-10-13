@@ -3,7 +3,7 @@ id: laseraugen
 title: Laseraugen
 ---
 
-Laseraugen sind ein Meme, welches am 16. Februar 2021 durch den Twitter Benutzer [CHAIRFORCE_BTC](https://twitter.com/CHAIRFORCE_BTC) geboren wurde.
+Laseraugen sind ein Meme, welches am 16. Februar 2021 durch den X.com Benutzer [CHAIRFORCE_BTC](https://x.com/CHAIRFORCE_BTC) geboren wurde.
 
 CHAIRFORCE_BTC ersetzte sein Profilbild durch eine Version mit Laseraugen und tweetete den Hashtag #LaserRayUntil100K.
 
