@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbitcoin_lexikon=self.webpackChunkbitcoin_lexikon||[]).push([[9661],{1892:(e,s,n)=>{n.r(s),n.d(s,{default:()=>l});n(7294);var r=n(512),c=n(1944),i=n(5281),t=n(8790),u=n(6040),a=n(5893);function l(e){return(0,a.jsx)(c.FG,{className:(0,r.Z)(i.k.wrapper.docsPages),children:(0,a.jsx)(u.Z,{children:(0,t.H)(e.route.routes)})})}}}]);
