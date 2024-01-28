@@ -1,6 +1,6 @@
 ---
-id: confirmation
-title: Confirmation
+id: confirmations
+title: Confirmations
 ---
 
-siehe [Bestätigung](../b/bestaetigung)
+siehe [Bestätigungen](../b/bestaetigungen)
