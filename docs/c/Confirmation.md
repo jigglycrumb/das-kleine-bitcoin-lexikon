@@ -3,4 +3,4 @@ id: confirmation
 title: Confirmation
 ---
 
-Siehe [Bestätigung](../b/bestaetigung)
+siehe [Bestätigung](../b/bestaetigung)

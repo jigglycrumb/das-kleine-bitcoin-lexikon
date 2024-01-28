@@ -3,4 +3,4 @@ id: sats
 title: Sats
 ---
 
-Die gängige Abkürzung für [Satoshis](satoshi).
+Sats ist die gängige Abkürzung für [Satoshis](satoshi).

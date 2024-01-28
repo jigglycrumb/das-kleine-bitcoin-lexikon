@@ -3,4 +3,4 @@ id: shitcoins
 title: Shitcoins
 ---
 
-Siehe [Altcoins](../a/altcoins)
+siehe [Altcoins](../a/altcoins)

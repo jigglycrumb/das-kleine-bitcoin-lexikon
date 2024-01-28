@@ -3,10 +3,10 @@ id: pleb-rap
 title: Pleb Rap
 ---
 
-Pleb Rap bezeichnet Rap, in dem [Bitcoin](../b/bitcoin) thematisiert wird.
+Pleb Rap bezeichnet Rap-Musik, in der [Bitcoin](../b/bitcoin) thematisiert wird.
 
-Unter den [Plebs](pleb) finden sich einige kreative & talentierte Künstler, die Musik zum Thema [Bitcoin](../b/bitcoin) produzieren.  
-Da Rap-Musik oft eine "Anti-Establishment-Haltung" einnimmt und man viel Information in die Texte packen kann, hat sich Pleb Rap zum dominanten Musikgenre in der deutschen [Bitcoin](../b/bitcoin)-Community entwickelt.
+Unter den [Plebs](pleb) finden sich einige kreative und talentierte Künstler, die Musik zum Thema [Bitcoin](../b/bitcoin) produzieren.  
+Da Rap-Musik oft eine „Anti-Establishment-Haltung“ einnimmt und man viel Information in die Texte packen kann, hat sich Pleb Rap zum dominanten Musikgenre in der deutschen [Bitcoin](../b/bitcoin)-Community entwickelt.
 
 Übrigens:  
 Hier gibt es eine stetig aktualisierte Youtube Playlist mit den neuesten Hits:

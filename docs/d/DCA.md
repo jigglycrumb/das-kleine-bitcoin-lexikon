@@ -3,8 +3,8 @@ id: dca
 title: DCA
 ---
 
-DCA ist die Abkürzung für "Dollar Cost Averaging".  
-Das ist englisch für "Dollar-Durchschnittskosten".
+DCA ist die Abkürzung für „Dollar Cost Averaging“.  
+Das kommt aus dem Englischen und bedeutet: „Dollar-Durchschnittskosten“.
 
 Damit ist ein Sparplan gemeint, bei dem in regelmäßigen Abständen -
 z.B. einmal pro Tag/Woche/Monat - [Bitcoin](../b/bitcoin) zu einem festgelegten [Fiat](../f/fiat)-Betrag gekauft werden.

@@ -18,5 +18,5 @@ export default function MoscowTime() {
       });
   }, [renderCycle]);
 
-  return <h4>Aktuelle Moskau Zeit: {moscowTime || "lade…"}</h4>;
+  return <h4>Aktuelle Moskau-Zeit: {moscowTime || "lade…"}</h4>;
 }

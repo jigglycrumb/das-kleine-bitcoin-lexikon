@@ -3,5 +3,5 @@ id: ledger
 title: Ledger
 ---
 
-Ledger ist englisch für Kassenbuch.  
+„Ledger“ kommt aus dem Englischen und bedeutet: „Kassenbuch“.  
 [Bitcoin](../b/bitcoin) verwaltet seinen Ledger auf der [Blockchain](../b/blockchain).

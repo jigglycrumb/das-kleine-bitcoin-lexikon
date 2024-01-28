@@ -1,0 +1,172 @@
+{
+  description = "Das kleine Bitcoin-Lexikon";
+
+  inputs = {
+    # use release 23.05 branch of the GitHub repository as input, this is the most common input format
+    # nixpkgs.url = "github:NixOS/nixpkgs/release-23.05";
+
+    nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
+    flake-utils.url = "github:numtide/flake-utils";
+    gitignore = {
+      url = "github:hercules-ci/gitignore.nix";
+      inputs.nixpkgs.follows = "nixpkgs";
+    };
+
+  };
+
+  outputs =
+    { self
+    , nixpkgs
+    , flake-utils
+    , systems
+    , gitignore
+    ,
+    }:
+    flake-utils.lib.eachDefaultSystem (system:
+    let
+      pkgs = import nixpkgs { inherit system; };
+
+      # pkgs = import <nixpkgs> { };
+
+      # The path to the npm project
+      src = ./.;
+
+      # Read the package-lock.json as a Nix attrset
+      packageLock = builtins.fromJSON (builtins.readFile (src + "/package-lock.json"));
+
+      # Create an array of all (meaningful) dependencies
+      deps = builtins.attrValues (removeAttrs packageLock.packages [ "" ])
+        # ++ builtins.attrValues (removeAttrs packageLock.dependencies [ "" ])
+      ;
+
+      # Turn each dependency into a fetchurl call
+      tarballs = map (p: pkgs.fetchurl { url = p.resolved; hash = p.integrity; }) deps;
+
+      # Write a file with the list of tarballs
+      tarballsFile = pkgs.writeTextFile {
+        name = "tarballs";
+        text = builtins.concatStringsSep "\n" tarballs;
+      };
+
+
+
+    in
+    {
+      # this shell can be instantiated with `nix develop`
+      devShells.default = pkgs.mkShell {
+        buildInputs = [
+          pkgs.nodejs-18_x
+        ];
+
+        shellHook = ''
+          echo 'yoyoyo, nix is a go-go!'
+          # npm install
+        '';
+      };
+
+      packages.default = pkgs.mkShell {
+        buildInputs = [
+          pkgs.nodejs-18_x
+        ];
+
+        shellHook = ''
+          echo 'yoyoyo, imma build dis lets go!'
+          npm install
+          npm build
+        '';
+      };
+
+      packages.testpkg = pkgs.mkShell {
+        buildInputs = [
+          pkgs.nodejs-18_x
+        ];
+
+        shellHook = ''
+          echo 'yoyoyo, imma build dis lets go!'
+          npm install
+          npm build
+        '';
+      };
+
+
+      packages.deploy = pkgs.mkShell {
+        buildInputs = [
+          pkgs.nodejs-18_x
+        ];
+
+        shellHook = ''
+          echo 'yoyoyo, imma deploy dis lets gooo!'
+          npm install
+          npm build
+          npm run deploy
+        '';
+      };
+
+      packages.lockTest = pkgs.stdenv.mkDerivation {
+        inherit (packageLock) name version;
+        inherit src;
+        buildInputs = [ pkgs.nodejs ];
+        buildPhase = ''
+          # export HOME=$PWD/.home
+          # export npm_config_cache=$PWD/.npm
+          # mkdir -p $out/js
+          # cd $out/js
+          # cp -r $src/. .
+
+          # while read package
+          # do
+          #   echo "caching $package"
+          #   npm cache add "$package"
+          # done <${tarballsFile}
+
+          echo "YOYOYOYOYOYOYOYOY BUUUUUUUUUUUUUUILD"
+          # npm ci
+          # npm run build
+        '';
+
+        installPhase = ''
+          ln -s $out/js/node_modules/.bin $out/bin
+        '';
+      };
+
+      packages.appBuild = pkgs.stdenv.mkDerivation {
+        name = "example-ts-node";
+        version = "0.1.0";
+        src = ./.;
+        # src = gitignore.lib.gitignoreSource ./.; # uses the gitignore in the repo to only copy files git would see
+        buildInputs = [
+          pkgs.nodejs-18_x
+        ];
+        # https://nixos.org/manual/nixpkgs/stable/#sec-stdenv-phases
+        # configurePhase = ''
+        #   echo "executing configurePhase"
+        #   npm ci
+        # '';
+
+        buildPhase = ''
+          echo "executing buildPhase"
+
+          # each phase has pre/postHooks. When you make your own phase be sure to still call the hooks
+          runHook preBuild
+          # npm ci
+          npm run build
+          runHook postBuild
+
+          echo "output test" > $out
+        '';
+        installPhase = ''
+          echo "executing installPhase"
+
+          runHook preInstall
+          # cp -r node_modules $out/node_modules
+          # cp package.json $out/package.json
+          # cp -r dist $out/dist
+          runHook postInstall
+        '';
+      };
+
+
+
+
+    });
+}

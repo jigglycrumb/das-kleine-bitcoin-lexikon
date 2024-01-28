@@ -8,7 +8,7 @@ title: Willkommen!
 
 Schön, dass du da bist!
 
-Hier findest du einfache und kurze Erklärungen zu gängigen Begriffen, die im [Bitcoin](b/bitcoin) Universum umher schwirren.
+Hier findest du einfache und kurze Erklärungen zu gängigen Begriffen, die im [Bitcoin](b/bitcoin)-Universum umherschwirren.
 
 Dies soll als Nachschlagewerk dienen, um z.B. beim Lesen eines Artikels schnell ein grundlegendes Verständnis des gesuchten Begriffs zu erhalten.   
 Tiefergehende Erklärungen werden nicht gegeben – du wirst aber vielleicht einige weiterführende Links finden.  

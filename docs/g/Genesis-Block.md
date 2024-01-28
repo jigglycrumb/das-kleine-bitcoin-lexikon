@@ -3,7 +3,7 @@ id: genesis-block
 title: Genesis Block
 ---
 
-Der Genesis Block ist der erste [Block](../b/block) der [Bitcoin](../b/bitcoin) [Blockchain](../b/blockchain).
+Der „Genesis Block“ ist der erste [Block](../b/block) der [Bitcoin](../b/bitcoin) [Blockchain](../b/blockchain).
 
 Dieser wurde von [Satoshi Nakamoto](../s/satoshi-nakamoto) selbst erstellt, während alle weiteren [Blöcke](../b/block) durch [Mining](../m/mining) geschürft wurden.
 
