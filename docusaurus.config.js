@@ -50,11 +50,11 @@ const config = {
             position: "left",
             label: "Lexikon",
           },
-          {
-            position: "right",
-            label: "Unterstützen",
-            href: "/support",
-          },
+          // {
+          //   position: "right",
+          //   label: "Unterstützen",
+          //   href: "/support",
+          // },
         ],
       },
       prism: {
