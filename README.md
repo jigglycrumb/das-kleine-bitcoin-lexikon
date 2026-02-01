@@ -2,6 +2,13 @@
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
 
+# NOTE
+
+This repository moved to Codeberg.
+
+New repo: https://codeberg.org/jiggly/das-kleine-bitcoin-lexikon
+
+
 ### Installation
 
 ```
